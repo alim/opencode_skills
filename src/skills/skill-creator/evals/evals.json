@@ -1,0 +1,42 @@
+{
+  "skill_name": "skill-creator",
+  "evals": [
+    {
+      "id": 1,
+      "prompt": "I want to create a skill that helps write good git commit messages. When I'm done with a task, it should look at my changes and help me write a clear, descriptive commit message.",
+      "expected_output": "The skill should guide the user through the skill creation process, asking clarifying questions and eventually producing a SKILL.md draft.",
+      "files": [],
+      "expectations": [
+        "The response asks clarifying questions about when the skill should trigger",
+        "The response asks about expected output format for commit messages",
+        "The response mentions or references the skill creation workflow",
+        "The response does NOT immediately write a complete skill without gathering requirements"
+      ]
+    },
+    {
+      "id": 2,
+      "prompt": "I have a skill at /path/to/my-skill that I want to improve. Can you help me iterate on it to make it better?",
+      "expected_output": "The skill should explain the improve workflow and ask for necessary information like workspace location, time budget, and goals.",
+      "files": [],
+      "expectations": [
+        "The response asks which skill to improve or confirms the skill path",
+        "The response asks about time budget or iteration limits",
+        "The response asks about improvement goals",
+        "The response mentions the improve workflow (run, grade, compare, analyze)",
+        "The response mentions workspace setup"
+      ]
+    },
+    {
+      "id": 3,
+      "prompt": "Check the performance of my skill at /home/user/skills/my-pdf-skill using eval mode.",
+      "expected_output": "The skill should explain how to run an eval, check for existing evals, and offer to create them if missing.",
+      "files": [],
+      "expectations": [
+        "The response references eval mode workflow",
+        "The response mentions checking for existing evals.json",
+        "The response offers to create evals if they don't exist",
+        "The response mentions the executor and grader agents or steps"
+      ]
+    }
+  ]
+}

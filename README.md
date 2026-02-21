@@ -16,7 +16,23 @@ Ollama includes an integration with Opencode that provides an LLM abstraction la
 
 # Configuration
 
-TBD
+There are two methods for install the opencode skills into your configuration.
+An `install.sh` script or manually copy the skill files to the correct location.
+
+## Installation Script
+
+The install script load all the scripts into global location for `opencode` skills.
+To run the script:
+
+* `install.sh`
+
+## Manual Copying
+
+Manually copying the skill scripts allow to install the Skills for an individual
+project or globally for your login sessions. The two locations are:
+
+* Project location: `.opencode/skills/<skill name>/SKILL.md`
+* Global location: `~/.config/opencode/skills/<skill name>/SKILL.md`
 
 # Current List of Skills
 
@@ -24,4 +40,4 @@ The skills in this list are *not* for production usage, but are provided for edu
 
 # Adding new skills
 
-TBD  
+TBD
