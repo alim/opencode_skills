@@ -1,4 +1,7 @@
 #!/bin/bash
+# This script will copy all the skills in the src/skills directory into the
+# global default for all opencode skills.
+#
 
 # Configuration
 SKILLS_DIR="$HOME/.config/opencode/skills"

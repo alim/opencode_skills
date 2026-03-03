@@ -83,6 +83,8 @@ Generate a single markdown document with this structure:
 
 - **Growth trends**: [Growing, stable, declining - with data]
 
+**Sources**: [List URLs]
+
 ### 1.3 Market Characteristics
 
 - Average business size/revenue
@@ -250,6 +252,8 @@ Rank workflows by automation potential:
 
 **Methodology notes**: [How these numbers were derived]
 
+**Sources**: [List URLs]
+
 ---
 
 ## 8. Revenue Projections
@@ -350,4 +354,4 @@ When searching, try queries like:
 
 ## Output
 
-Deliver the complete report as a single markdown document. If certain data couldn't be found despite research efforts, note this explicitly rather than fabricating numbers.
+Deliver the complete report as a single markdown document. The markdown document should be saved to a markdown text file. If certain data couldn't be found despite research efforts, note this explicitly rather than fabricating numbers.
