@@ -1,3 +1,10 @@
+---
+name: lean-canvas-analysis
+description: Generate a Lean Canvas representation of a business opportunity. Triggers on phrases like "business analysis", "[solution] lean canvas", or "analyze [solution]".
+license: MIT
+compatibility: opencode
+---
+
 # Skill: lean-canvas-analysis
 
 # Lean Canvas Analysis Generator
