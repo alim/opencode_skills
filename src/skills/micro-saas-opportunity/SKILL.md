@@ -355,3 +355,7 @@ When searching, try queries like:
 ## Output
 
 Deliver the complete report as a single markdown document. The markdown document should be saved to a markdown text file. If certain data couldn't be found despite research efforts, note this explicitly rather than fabricating numbers.
+
+Base directory for this skill: ~/.config/opencode/skills/lean-canvas-analysis
+Relative paths in this skill (e.g., scripts/, reference/) are relative to this base directory.
+Note: file list is sampled.

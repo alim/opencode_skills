@@ -46,59 +46,283 @@ Generate a single markdown document with this structure:
 
 **Selected Solution**: [Solution name] - [Brief value proposition]
 
-## Lean Canvas Table
+## Lean Canvas
 
-**Lean Canvas - One Page Analysis**
+*A 1-page business model that replaces long business plans with a snapshot of your key assumptions.*
 
-| Problem | Customer Segments | Unique Value Proposition |
-|---------|-------------------|--------------------------|
-| [1-3 key problems the solution addresses] | [Who the solution serves - from market segment] | [Why this solution is better than alternatives] |
+## Lean Canvas Overview
 
-| Solution | Channels | Revenue Streams |
-|----------|---------|----------------|
-| [How the solution works - core features] | [How to reach customers - from channels in report] | [Pricing model - from revenue section] |
+The Lean Canvas is a 1-page business model with 9 key sections. Structure your analysis using section headers for each component:
 
-| Cost Structure | Key Metrics | Unfair Advantage |
-|----------------|-------------|----------------|
-| [Development + operational costs] | [Success metrics - from projections] | [What makes this defensible] |
+### Top Row
+1. **Problem** - Top 3 problems & existing alternatives
+2. **Solution** - Top 3 features mapped to problems
+3. **Unique Value Proposition** - Headline, sub-headline, high-concept pitch
+4. **Unfair Advantage** - What can't be copied or bought
+5. **Customer Segments** - Target customers & early adopters
 
-*Note: This Lean Canvas format follows the standard one-page layout with 3x3 grid structure.*
+### Middle Row
+6. **Channels** - Path to customers (initial & scalable)
+7. **Key Metrics** - Top 3-5 leading indicators
 
-## Analysis Details
+### Bottom Row
+8. **Cost Structure** - MVP costs & ongoing burn rate
+9. **Revenue Streams** - Pricing model & revenue drivers
+
+---
+
+## Lean Canvas: [Solution Name]
+
+### Problem
+
+**Top 3 Problems:**
+1. [Problem 1 - most pressing]
+2. [Problem 2]
+3. [Problem 3]
+
+**Existing Alternatives:**
+• [How customers currently solve Problem 1]
+• [How customers currently solve Problem 2]
+• [How customers currently solve Problem 3]
+
+### Solution
+
+**Top 3 Features:**
+• [Feature 1 - addresses Problem 1]
+• [Feature 2 - addresses Problem 2]
+• [Feature 3 - addresses Problem 3]
+
+*Bind solution to problem as late as possible*
+
+### Unique Value Proposition
+
+**Headline:** [Clear, compelling message in ≤120 chars]
+
+**Sub-headline:** [What it is, who it's for, and why it matters]
+
+**High-Concept Pitch:** [Analogy: "X for Y" format]
+
+### Unfair Advantage
+
+*Cannot be easily copied or bought*
+
+*(Leave blank if no real advantage exists yet)*
+
+**Examples:**
+• Expert endorsements
+• Personal authority
+• Network effects
+• Community
+• Existing customers
+• SEO ranking
+
+### Customer Segments
+
+**Target Customers:** [Who pays for the product]
+
+**Early Adopters:** [Ideal first customers with the urgent problem - be specific]
+
+**Users vs Customers:**
+• Customers: [Who pays]
+• Users: [Who uses but doesn't pay]
+
+### Channels
+
+**Path to Customers**
+
+**Initial Channels:**
+• [Channel for learning - interviews, discovery]
+
+**Scalable Channels:**
+• [Channel 1 for growth]
+• [Channel 2 for growth]
+• [Channel 3 for growth]
+
+### Key Metrics
+
+**Top 3-5 Metrics**
+
+**Leading Indicators:**
+• [Metric 1 - predicts future success]
+• [Metric 2]
+
+**Outcome Metrics:**
+• [Metric 3 - customer-centric outcome]
+• [Metric 4]
+
+### Cost Structure
+
+**MVP Development Costs:**
+• [Define/build/launch costs for next 3-6 mo]
+
+**Ongoing Burn Rate:**
+• [Monthly operational costs]
+• [Salaries, tools, infrastructure]
+
+### Revenue Streams
+
+**Pricing Model:**
+• [How you charge: subscription, usage, etc.]
+
+**Price Point:**
+• [Specific pricing and why]
+
+**Revenue Drivers:**
+• [Primary revenue source]
+
+*(Price defines your customers)*
+
+---
+
+## Section-by-Section Guidelines
+
+### Customer Segments (Start Here)
+**Recommended starting point for sketching your canvas.**
+
+- **Distinguish customers from users**: A customer pays; a user doesn't
+- **Model multiple perspectives**: Different actors have different problems and value propositions
+- **Home in on early adopters**: Define your ideal first customer segment, not mainstream customers
+- **Customer segments should represent** your Total Addressable Market (TAM)
+- **Early adopters should represent** a specific subset of your TAM - your ideal starting profile
+
+### Problem
+**Problems, not solutions, create spaces for innovation.**
+
+- **List top 1-3 problems** - prioritize by urgency and severity
+- **List existing alternatives** - how customers currently solve each problem
+- **Existing alternatives may not be obvious competitors** - think broadly
+- **Validate problems early** through customer discovery, not assumptions
+
+### Unique Value Proposition
+**One of the most important and hardest boxes to get right.**
+
+- **Connect to #1 problem** - your UVP should address the top pain point
+- **Target early adopters** - bold, clear, specific messaging (not mainstream yet)
+- **Focus on outcomes** - desired end states, not features or even benefits
+  - Feature: "professionally designed templates"
+  - Benefit: "eye-catching résumé"
+  - Outcome: "landing your dream job"
+- **Keep it short** - max 120 characters for headline (ad platform limit)
+- **Answer: what, who, and why**
+  - Headline: What it is + who it's for
+  - Sub-headline: Why it matters
+- **Create a high-concept pitch**: "X for Y" analogy (e.g., "Uber for dog walking")
+  - Not for landing pages - use for quick communication
+
+### Solution
+**Bind solution to problem as late as possible.**
+
+- **Keep it simple** - sketch the minimum that addresses each problem
+- **Prioritize** - focus on top 3 features mapped to top 3 problems
+- **Defer detailed specs** - problems often change after customer conversations
+- **Less than 1/9 of canvas** - problems matter more at this stage
+
+### Channels
+**Failing to build a clear path to customers is a top startup killer.**
+
+- **Initial goal is learning, not scaling** - any channel that reaches customers is OK initially
+- **Build path early** - customer discovery/interviews force you to find customers
+- **Think scalable from day one** - if you need many customers, plan for scale early
+- **Different channels for different stages** - some channels only work later
+
+### Revenue Streams
+**Getting paid is the first form of validation.**
+
+- **Price is part of the product** - price changes product perception
+- **Price defines your customers** - signals which segment you're targeting
+- **Don't defer pricing** - test willingness to pay early
+- **Revenue = business vs. hobby** - the key difference
+
+### Cost Structure
+**Stage-based approach, not 3-5 year forecasts.**
+
+- **Focus on immediate milestones** - next 3-6 months
+- **Model MVP runway** - costs to define, build, and launch
+- **Ongoing burn rate** - salaries, office, tools, infrastructure
+- **Revise after milestones** - update as you learn
+
+### Key Metrics
+**3-5 numbers that tell if your business model is working.**
+
+- **Prefer outcome metrics over output metrics**
+  - Output: lines of code, features shipped
+  - Outcome: customers acquired, revenue, engagement
+- **Prioritize leading indicators over trailing indicators**
+  - Trailing: revenue, profit (lagging)
+  - Leading: qualified leads, churn rate, trials (predictive)
+- **Study analogs** - metrics from similar companies in your space
+- **Customer-centric, not product-centric**
+
+### Unfair Advantage
+**Usually the hardest section - leave blank if needed.**
+
+- **Real unfair advantage = cannot be easily copied or bought**
+- **Common fake advantages**: passion, lines of code, features, first-mover status
+- **Real examples**:
+  - Insider information
+  - Expert endorsements
+  - Dream team
+  - Personal authority
+  - Network effects
+  - Platform effects
+  - Community
+  - Existing customers
+  - SEO ranking (organic, not paid)
+- **Start with an unfair advantage story** - know what you're building toward
+- **Leave blank if no real advantage exists yet** - better than weak justification
+- **Embrace obscurity** - build value quietly before competitors notice
+
+## Detailed Analysis
 
 ### 1. Problem Analysis
 
-[Detailed breakdown of the problems being solved]
+- **Top 3 Problems**: List the most critical pain points in order of severity
+- **Existing Alternatives**: How customers currently solve each problem
+- **Problem Validation**: Evidence these problems exist and are worth solving
 
 ### 2. Customer Segment Deep Dive
 
-[Expanded analysis of target customers]
+- **Primary Segment**: Main target customer group
+- **Early Adopters**: Ideal first customers with specific characteristics
+- **Jobs to be Done**: What customers are trying to accomplish
+- **Segment Validation**: Evidence this segment exists and is accessible
 
 ### 3. Solution Validation
 
-[Why this solution works for this market]
+- **Top 3 Features**: Core features mapped to top 3 problems
+- **Feature Priorities**: MVP vs. future enhancements
+- **Technical Feasibility**: Development complexity assessment
 
-### 4. Competitive Positioning
+### 4. Unique Value Proposition
 
-[How this solution compares to existing alternatives]
+- **Headline**: One clear, compelling statement (max 120 characters)
+- **Sub-headline**: What it is, who it's for, and why it matters
+- **High-Level Concept**: Elevator pitch or analogy (e.g., "Uber for X")
+- **Differentiation**: Why this solution is 10x better than alternatives
 
-### 5. Go-to-Market Strategy
+### 5. Unfair Advantage
 
-[Channels and tactics for customer acquisition]
+- **Defensibility**: What can't be easily copied or bought
+- **Moats**: Network effects, proprietary data, unique expertise, etc.
+- **Timing**: Why now is the right time for this solution
 
-### 6. Financial Viability
+### 6. Channels & Revenue
 
-[Revenue model validation and cost analysis]
+- **Customer Acquisition Path**: Channels ranked by effectiveness and cost
+- **Revenue Model**: Pricing strategy and monetization approach
+- **Unit Economics**: Customer acquisition cost vs. lifetime value
 
-### 7. Success Metrics
+### 7. Cost Structure & Metrics
 
-[Key metrics to track and why they matter]
+- **MVP Development Costs**: Define, build, launch costs for next 3-6 months
+- **Ongoing Burn Rate**: Monthly operational costs
+- **Key Metrics**: Top 3-5 leading indicators that predict business health
 
 ## Next Steps
 
-1. [Validation step]
-2. [Research step]
-3. [Development step]
+1. **Validate assumptions**: Test your riskiest assumptions with customer interviews
+2. **Start with customer segments**: Define early adopters and reach out
+3. **Iterate on solution**: Refine based on customer feedback before building
 
 ## Quality Standards
 
@@ -109,6 +333,48 @@ The Lean Canvas analysis must:
 3. **Show reasoning**: Explain why each Lean Canvas element is positioned as stated
 4. **Be actionable**: Provide clear next steps based on the analysis
 5. **Maintain consistency**: Ensure the selected solution's value proposition matches across both reports
+
+## Best Practices
+
+### Sketch Quickly
+- Complete your initial canvas in less than 20 minutes
+- Goal is a snapshot, not perfection
+- Avoid groupthink - have team members sketch individually first
+
+### Embrace Constraints
+- 1-page limit forces distillation to essence
+- Can't describe it on one page? Too complex to explain
+- Use fewer words, not smaller fonts
+
+### Think in the Present
+- Don't predict the future (impossible)
+- Focus on current hypotheses to test
+- What do you know now and what's next?
+
+### Leave Boxes Blank
+- Okay to leave uncertain boxes blank
+- Better to admit unknown than fake certainty
+- Highlights what needs validation
+
+### Bind Solution Late
+- Problems often change after customer conversations
+- Don't over-specify solution too early
+- Focus on problems first - they create innovation space
+
+### Order Doesn't Matter
+- Start with whatever box you understand best
+- Sketching is like a jigsaw puzzle - no right order
+- If stuck, start with Customer Segments
+
+## Iteration Guidelines
+
+The Lean Canvas is a living document. After initial creation:
+
+1. **Validate with customers**: Test assumptions through interviews and experiments
+2. **Update regularly**: Business assumptions change fast in early-stage ventures
+3. **Keep versions**: Track how the canvas evolves as you learn
+4. **Focus on risk**: Prioritize validating the riskiest assumptions first
+5. **Reconcile perspectives**: If multiple team members, combine into single canvas
 
 ## Output
 

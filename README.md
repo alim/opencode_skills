@@ -38,6 +38,15 @@ project or globally for your login sessions. The two locations are:
 
 The skills in this list are *not* for production usage, but are provided for educational purposes.
 
+  * skill-creator - a Claude Code skill to create skills. It has been updated to work with opencode
+  * micro-saas-opportunity - Generates business opportunity report for a given target market's fit for micro-saas solutions that only take 1-2 people to build, sell, and operate.
+  * lean-canvas-analysis - takes the opportunity report and a selection of one of the opportunities and generates a lean canvas analysis of the selected opportunity.
+
 # Adding new skills
 
-TBD
+To add a new skill, use the skill-creator to create the new skill and test it.
+Launch opencode and then:
+```
+/skills
+```
+Select skill-creator
