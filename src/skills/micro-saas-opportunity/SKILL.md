@@ -344,6 +344,7 @@ The report must:
 6. **Consider the niche**: Micro-SaaS succeeds by serving underserved niches extremely well. Proposed solutions should be laser-focused on the specific market segment, not generic tools.
 
 7. **Section headings**: All sections should be numbered in the format 1., 1.1., 1.1.1., 1.1.1.1.
+
 ## Research Tips
 
 When searching, try queries like:
