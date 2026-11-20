@@ -211,7 +211,7 @@ State every input that drives the model. Be conservative and source-backed.
 - **Trial-to-paid conversion rate**: [X%] (cite benchmark; default 10% for healthcare-adjacent or family-decision-maker products, 15-25% for self-serve prosumer)
 - **Monthly churn rate**: [X%] (cite benchmark; default 3-5% for sticky vertical SaaS, 5-7% average)
 - **Annual logo churn**: [X%] (derived from monthly churn via 1 − (1 − monthly)^12)
-- **Customer acquisition cost (CAC)**: $[X] (break down by channel: paid ads, content, partnerships, referral)
+- **Customer acquisition cost (CAC)**: $[X] — derive it, do not assume it: CAC = total S&M spend in the year ÷ new paying customers that year. State the S&M spend bottom-up first (paid-acquisition budget, S&M/support hire costs, share of founder time), then report the resulting CAC. If you present a per-channel breakdown, label it as an allocation of that derived total, not as a separately sourced budget, and name any benchmark used only as a check.
 - **Viral / referral coefficient**: [X] (each customer refers N others; default 1.0-1.3 if a referral program exists)
 - **COGS per active user per month**: $[X] (break down: LLM/API, telephony/SMS, hosting, DB, third-party licenses)
 - **Headcount & salaries**: [Role + FTE count + fully-loaded annual cost; founders may defer draw]
@@ -252,7 +252,7 @@ Project a full P&L on a yearly basis. Use the trial funnel (cumulative trials ×
 | **Gross profit** | **$[X]** | **$[X]** | **$[X]** |
 | **Gross margin %** | **[X]%** | **[X]%** | **[X]%** |
 | **Operating Expenses** | | | |
-| Sales & Marketing (CAC × new customers) | ($[X]) | ($[X]) | ($[X]) |
+| Sales & Marketing (budget + FTE + founder time ⇒ CAC = S&M ÷ new customers) | ($[X]) | ($[X]) | ($[X]) |
 | R&D — engineering salaries (FTEs × loaded cost) | ($[X]) | ($[X]) | ($[X]) |
 | G&A — founder draws + admin | ($[X]) | ($[X]) | ($[X]) |
 | Customer support (FTEs × loaded cost) | ($[X]) | ($[X]) | ($[X]) |
@@ -273,6 +273,8 @@ Project a full P&L on a yearly basis. Use the trial funnel (cumulative trials ×
 | Customer support | [N] | [N] | [N] | $[X] |
 | S&M (part-time / community) | [N] | [N] | [N] | $[X] |
 | **Total FTEs** | **[N]** | **[N]** | **[N]** | |
+
+Every role in this table must reconcile to a line in the 8.3 P&L: engineers and founder engineering time to R&D, support to Customer support, S&M to the S&M line, and non-product founder time to G&A. If founder pay is split across functions, state the split (e.g. 60% R&D / 25% S&M / 15% G&A) so the S&M denominator behind CAC is visible.
 
 ### 8.5 Capital Plan & Breakeven
 
